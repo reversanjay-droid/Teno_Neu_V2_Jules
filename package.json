@@ -1,0 +1,19 @@
+{
+  "name": "teno-neu-v2",
+  "version": "2.0.0",
+  "description": "Teno Neu V2 - Automated multi-account WebSocket client for Teneo node interaction with proxy support.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "keywords": ["teneo", "node", "bot", "websocket"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "figlet": "^1.8.0",
+    "https-proxy-agent": "^7.0.6",
+    "winston": "^3.17.0",
+    "ws": "^8.18.0"
+  }
+}

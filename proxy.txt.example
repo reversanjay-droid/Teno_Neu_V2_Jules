@@ -1,0 +1,11 @@
+# Teno Neu V2 — proxy.txt
+#
+# Add one proxy per line (lines starting with # are ignored).
+# Supported formats:
+#   ip:port
+#   http://ip:port
+#   http://username:password@ip:port
+#   username:password@ip:port
+#
+# Proxies are assigned round-robin across accounts.
+# This file is optional – leave it empty (or delete it) to run without proxies.

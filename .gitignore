@@ -1,0 +1,5 @@
+node_modules/
+*.log
+data.txt
+proxy.txt
+bearer.txt

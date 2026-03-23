@@ -1,0 +1,10 @@
+# Teno Neu V2 — data.txt
+#
+# Add one JWT / bearer token per line (lines starting with # are ignored).
+# Example:
+#   eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIn0.dozjgNryP4J3jVmNHl0w5N_XgL0n3I9PlFUP0THsR8U
+#
+# To obtain your token:
+#   1. Install the Teneo Community Node browser extension.
+#   2. Open the extension, then right-click → Inspect → Network → WS tab.
+#   3. Click Disconnect then Connect. Copy the accessToken from the WS payload.
